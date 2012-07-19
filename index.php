@@ -24,5 +24,6 @@
 <body>
 	Index.php
 	<?php echo "master branch index file change"; ?>
+	<?php echo "github not asking password again when push changes on github"; ?>
 </body>
 </html>	
