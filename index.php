@@ -23,5 +23,6 @@
 </head>
 <body>
 	Index.php
+	<?php echo "master branch index file change"; ?>
 </body>
 </html>	
